@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/ias_fortify",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Santo",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "ext-simplexml": "*",
+    "ext-json": "*"
+  }
+}
